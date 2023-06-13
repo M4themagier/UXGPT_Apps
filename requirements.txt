@@ -1,8 +1,8 @@
-streamlit==0.82.0
-matplotlib==3.4.3
-networkx==2.6.3
+streamlit
+matplotlib
+networkx
 openai
-graphviz==0.17
-dataclasses==0.8
-textwrap3==0.9.2
-streamlit-agraph==0.5.0
+graphviz
+dataclasses
+textwrap3
+streamlit-agraph
